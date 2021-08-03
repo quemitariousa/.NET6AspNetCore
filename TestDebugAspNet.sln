@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblyDebug", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwagerApi", "SwagerApi\SwagerApi.csproj", "{C55CC821-B2C3-4258-AAAE-25DD07F6A0D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CssIsolation", "CssIsolation\CssIsolation.csproj", "{ADF0F98E-3E12-413D-BB03-BA311FBBDF14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{C55CC821-B2C3-4258-AAAE-25DD07F6A0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C55CC821-B2C3-4258-AAAE-25DD07F6A0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C55CC821-B2C3-4258-AAAE-25DD07F6A0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF0F98E-3E12-413D-BB03-BA311FBBDF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF0F98E-3E12-413D-BB03-BA311FBBDF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF0F98E-3E12-413D-BB03-BA311FBBDF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF0F98E-3E12-413D-BB03-BA311FBBDF14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -76,3 +76,7 @@ C:\Users\quemi\RiderProjects\TestDebugAspNet\SwagerApi\obj\Debug\net6.0\SwagerAp
 C:\Users\quemi\RiderProjects\TestDebugAspNet\SwagerApi\obj\Debug\net6.0\ref\SwagerApi.dll
 C:\Users\quemi\RiderProjects\TestDebugAspNet\SwagerApi\obj\Debug\net6.0\SwagerApi.pdb
 C:\Users\quemi\RiderProjects\TestDebugAspNet\SwagerApi\obj\Debug\net6.0\SwagerApi.genruntimeconfig.cache
+C:\Users\quemi\RiderProjects\TestDebugAspNet\SwagerApi\bin\Debug\net6.0\SwagerApi.StaticWebAssets.xml
+C:\Users\quemi\RiderProjects\TestDebugAspNet\SwagerApi\obj\Debug\net6.0\staticwebassets\SwagerApi.StaticWebAssets.xml
+C:\Users\quemi\RiderProjects\TestDebugAspNet\SwagerApi\obj\Debug\net6.0\scopedcss\Home\Index.cshtml.rz.scp.css
+C:\Users\quemi\RiderProjects\TestDebugAspNet\SwagerApi\obj\Debug\net6.0\scopedcss\projectbundle\SwagerApi.bundle.scp.css
