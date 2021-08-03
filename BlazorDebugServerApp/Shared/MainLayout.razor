@@ -5,13 +5,40 @@
         <NavMenu/>
     </div>
 
+   
     <main>
-        <div class="top-row px-4">
-            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+        @* TODO: Сreate <ErrorBoundary> 
+1. Run project
+2. Open Counter Page in browser
+3. Click on the "click me" button 4 times
+4. Make sure there is a visual red error in the browser
+*@
+        <div class="main">
+            <div class="top-row px-4">
+                <a href="https://docs.microsoft.com/aspnet/" target="_blank" rel="noopener">About</a>
+            </div>
+            <div class="content px-4">
+                <ErrorBoundary>
+                    @Body
+                </ErrorBoundary>
+            </div>
         </div>
-
-        <article class="content px-4">
-            @Body
-        </article>
+        
+        @* TODO: Use Razor syntax in SVG foreignObject elements 
+1. Open any page in browser
+2. You can see cloud with text "Wow, it's so nice that this text wraps like it's HTML...because that's what it is!"
+ *@
+        
+             <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg"> 
+                 <rect x="0" y="0" rx="10" ry="10" width="200" height="200" stroke="black" fill="none" /> 
+                 <foreignObject x="20" y="20" width="160" height="160"> 
+                     <p>@message</p> 
+                </foreignObject> 
+             </svg> 
+            
+             @code { 
+                 string message = "Wow, it's so nice that this text wraps like it's HTML...because that's what it is!"; 
+             } 
+        
     </main>
 </div>

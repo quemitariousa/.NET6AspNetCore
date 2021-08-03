@@ -4,4 +4,31 @@
 
 Welcome to your new app.
 
-<SurveyPrompt Title="How is Blazor working for you?"/>
+@* TODO: Create DynamicComponent
+1. Run project
+2. Open Home page in browser
+3. You can see dropbox  
+4. The browser page displays different options depending on the dropbox selection
+*@
+<div class="col-4">
+    What is your current living situation?
+    <select @onchange="OnDropdownChange" class="form-control">
+        <option value="@nameof(DefaultDropdownComponent)">Select a value</option>
+        <option value="@nameof(RentComponent)">Rent</option>
+        <option value="@nameof(OwnHouseComponent)">Own house</option>
+        <option value="@nameof(OwnCondoComponent)">Own condo or townhouse</option>
+        <option value="@nameof(DaveRoommate)">I'm Dave's roommate</option>
+    </select>
+    <br />
+    <DynamicComponent Type="selectedType" />
+</div>
+
+@code
+{
+    Type selectedType = typeof(DefaultDropdownComponent);
+
+    public void OnDropdownChange(ChangeEventArgs myArgs)
+    {
+        selectedType = Type.GetType($"BlazorDebugServerApp.Shared.{myArgs.Value}");
+    }
+}
