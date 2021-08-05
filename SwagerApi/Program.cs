@@ -26,6 +26,12 @@ app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
 });
-
+ 
+//TODO: Create new routing API
+ /*
+  The new routing APIs allow users to route to any type of method. hese methods can use controller-like parameter binding, JSON formatting, and action result execution.
+  1. Run the project
+  2. No errors should arise 
+  */
 app.MapGet("/", (Func<string>)(() => "Hello World!"));
 app.Run();
