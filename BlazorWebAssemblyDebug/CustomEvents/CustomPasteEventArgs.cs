@@ -18,7 +18,10 @@ namespace BlazorWebAssemblyDebug.CustomEvents
     // 1. Right click on EventArgs and select Go to ... Declaration
     // 2. External sources should be loaded
     
-    
+    //TODO: Go to implementation
+    // 1. Right click on DateTime and select Go to.. Implementation
+    // 2. You can see project item navigation
+    // 3. The transition to another file should be carried out without problems 
     public class CustomPasteEventArgs : EventArgs
     {
         // Data for these properties will be supplied by custom JavaScript logic
