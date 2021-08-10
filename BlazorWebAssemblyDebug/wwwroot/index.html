@@ -20,6 +20,19 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
+    <script>
+        Blazor.registerCustomEventType('custompaste', {
+            browserEventName: 'paste',
+            createEventArgs: event => {
+                // This example only deals with pasting text, but you could use arbitrary JavaScript APIs
+                // to deal with users pasting other types of data, such as images
+                return {
+                    eventTimestamp: new Date(),
+                    pastedData: event.clipboardData.getData('text')
+                };
+            }
+        });
+    </script>
 </body>
 
 </html>
