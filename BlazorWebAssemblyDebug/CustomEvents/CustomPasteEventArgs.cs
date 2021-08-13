@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Components;
 
 namespace BlazorWebAssemblyDebug.CustomEvents
 {
-    //TODO: Create custom events blazor
+    //TODO: Test custom events blazor
     // 1. Run project
     // 2. In the home page you can see input. If you paste any text in this input you can see date when you did it
     [EventHandler("oncustompaste", typeof(CustomPasteEventArgs), enableStopPropagation: true, enablePreventDefault: true)]

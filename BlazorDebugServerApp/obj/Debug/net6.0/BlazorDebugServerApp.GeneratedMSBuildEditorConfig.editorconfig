@@ -9,7 +9,7 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorDebugServerApp
 build_property.RootNamespace = BlazorDebugServerApp
 build_property.ProjectDir = C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\
-build_property.RazorLangVersion = 5.0
+build_property.RazorLangVersion = 6.0
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp
 build_property._RazorSourceGeneratorDebug = 
@@ -77,4 +77,4 @@ build_metadata.AdditionalFiles.CssScope =
 
 [c:/Users/quemi/RiderProjects/TestDebugAspNet/BlazorDebugServerApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
-build_metadata.AdditionalFiles.CssScope =
+build_metadata.AdditionalFiles.CssScope = 

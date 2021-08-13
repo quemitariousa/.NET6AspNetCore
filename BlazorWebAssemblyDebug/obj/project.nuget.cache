@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dMZAQx2u1kVioaWCVA5LrP5ACEwHYBIxf6BepJe3lTtbKpiRVOSWG9CjgjuBNV5WWQ98CCTS3ueAwaZBvJi5eQ==",
+  "dgSpecHash": "nLMwPVdzYkT5cDafBw4jBLQn/VGHgQvRsLc1bWLcf3cMa+S34Uuomm8lomXpdK9d6Sz6LXkVLecw4dKuG21j0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorWebAssemblyDebug\\BlazorWebAssemblyDebug.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,7 @@
     "C:\\Users\\quemi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\quemi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.6.21352.12\\system.runtime.compilerservices.unsafe.6.0.0-preview.6.21352.12.nupkg.sha512",
     "C:\\Users\\quemi\\.nuget\\packages\\system.text.json\\6.0.0-preview.6.21352.12\\system.text.json.6.0.0-preview.6.21352.12.nupkg.sha512",
-    "C:\\Users\\quemi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.0-preview.6.21352.12\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.0-preview.6.21352.12.nupkg.sha512"
+    "C:\\Users\\quemi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.0-preview.7.21377.19\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.0-preview.7.21377.19.nupkg.sha512"
   ],
   "logs": []
 }
