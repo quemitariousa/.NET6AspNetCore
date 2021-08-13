@@ -23,10 +23,13 @@ else
         </tr>
         </thead>
         <tbody>
+        @* TODO: Go to declaration foreach with Select Target
+        1. Right clock on @foreach and select Go to... Declaration
+        2. Rider will show you Select Target *@
         @foreach (var forecast in forecasts)
         {
             <tr>
-            @* TODO: Go to declaration .razor
+                @* TODO: Go to declaration .razor -> .cs
             1.  Right click on ToShortDateString and select Go to ... Declaration
             2. Rider will take you to the file where this function was created. *@
                 <td>@forecast.Date.ToShortDateString()</td>

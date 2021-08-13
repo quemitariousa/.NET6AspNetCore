@@ -1,5 +1,8 @@
 @import '';
 
+/* _content/BlazorDebugServerApp/Pages/Index.razor.rz.scp.css */
+/*TODO: Test css isolation for .razor file*/
+/*1. .razor.css file should be linked with .razor file*/ 
 /* _content/BlazorDebugServerApp/Shared/MainLayout.razor.rz.scp.css */
 .page[b-u1iydj3xt7] {
     position: relative;

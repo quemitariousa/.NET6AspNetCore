@@ -25,6 +25,9 @@ else
         </tr>
         </thead>
         <tbody>
+        //TODO: Go to declaration foreach
+        // 1. Right click on foreach and select Go to ... Declaration
+        // 2. Another file should open
         @foreach (var forecast in forecasts)
         {
             <tr>
@@ -43,6 +46,9 @@ else
 
     protected override async Task OnInitializedAsync()
     {
+    //TODO: Go to declaration .razor -> .cs
+    // 1. Right click on GetForecastAsync and select Go to ... Declaration
+    // 2. Another file should open
         forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
     }
 

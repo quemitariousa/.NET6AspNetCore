@@ -30,7 +30,6 @@ C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\bin\Debug\net6
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\bin\Debug\net6.0\BlazorDebugServerApp.deps.json
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\bin\Debug\net6.0\BlazorDebugServerApp.runtimeconfig.json
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\bin\Debug\net6.0\BlazorDebugServerApp.dll
-C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\bin\Debug\net6.0\ref\BlazorDebugServerApp.dll
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\bin\Debug\net6.0\BlazorDebugServerApp.pdb
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\BlazorDebugServerApp.csproj.AssemblyReference.cache
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\BlazorDebugServerApp.GeneratedMSBuildEditorConfig.editorconfig
@@ -38,8 +37,6 @@ C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\BlazorDebugServerApp.AssemblyInfo.cs
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\BlazorDebugServerApp.csproj.CoreCompileInputs.cache
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\BlazorDebugServerApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\staticwebassets\BlazorDebugServerApp.StaticWebAssets.Manifest.cache
-C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\staticwebassets\BlazorDebugServerApp.StaticWebAssets.xml
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\scopedcss\bundle\BlazorDebugServerApp.styles.css
@@ -48,3 +45,12 @@ C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\ref\BlazorDebugServerApp.dll
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\BlazorDebugServerApp.pdb
 C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\BlazorDebugServerApp.genruntimeconfig.cache
+C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\bin\Debug\net6.0\BlazorDebugServerApp.staticwebassets.json
+C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\bin\Debug\net6.0\BlazorDebugServerApp.staticwebassets.runtime.json
+C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\BlazorDebugServerApp.ImplicitNamespaceImports.cs
+C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\BlazorDebugServerApp.RazorAssemblyInfo.cache
+C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\BlazorDebugServerApp.RazorAssemblyInfo.cs
+C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\BlazorDebugServerApp.StaticWebAssets.xml
+C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\StaticWebAssets.build.json
+C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\refint\BlazorDebugServerApp.dll

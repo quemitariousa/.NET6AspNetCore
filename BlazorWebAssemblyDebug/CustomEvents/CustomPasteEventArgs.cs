@@ -14,11 +14,15 @@ namespace BlazorWebAssemblyDebug.CustomEvents
         // compiler output as well as code completions in the editor.
     }
     
-    //TODO: Go to declaration
+    //TODO: Go to declaration External Source
     // 1. Right click on EventArgs and select Go to ... Declaration
     // 2. External sources should be loaded
     
-    //TODO: Go to implementation
+    // TODO: Go to implementation 
+    // 1. Right click on EventArgs and select Go to ... Implementation
+    // 2. You can see implementations of 'EventArgs'
+    
+    //TODO: Go to implementation project item navigation
     // 1. Right click on DateTime and select Go to.. Implementation
     // 2. You can see project item navigation
     // 3. The transition to another file should be carried out without problems 
