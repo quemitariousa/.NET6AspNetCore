@@ -14,9 +14,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e111c501-891d-4de4-9b5e-7608312770ca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestDebugAspNetCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestDebugAspNetCore/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/Pages/Index.razor.css" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/Pages/Index.razor.css" afterDir="false" />
+    <list default="true" id="e111c501-891d-4de4-9b5e-7608312770ca" name="Changes" comment="go to declaration razor.css -&gt; .razor">
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/Pages/Index.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/Pages/Index.razor" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +183,7 @@
       <workItem from="1628853018781" duration="594000" />
       <workItem from="1628855457418" duration="90000" />
       <workItem from="1628855578624" duration="32000" />
-      <workItem from="1629227466935" duration="286000" />
+      <workItem from="1629227466935" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="rename project">
       <created>1628852236518</created>
@@ -200,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628852253265</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="go to declaration razor.css -&gt; .razor">
+      <created>1629227921554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629227921554</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +231,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="rename project" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="go to declaration razor.css -&gt; .razor" />
+    <option name="LAST_COMMIT_MESSAGE" value="go to declaration razor.css -&gt; .razor" />
   </component>
 </project>
