@@ -3,6 +3,10 @@ using Microsoft.AspNetCore.Components;
 
 namespace BlazorWebAssemblyDebug.CustomEvents
 {
+    //TODO: EventHandler code
+    // 1. No red code
+    // 2. Syntax highlighting works
+    // 3. Code completion when you start typing [EventHandler]
     //TODO: Test custom events blazor
     // 1. Run project
     // 2. In the home page you can see input. If you paste any text in this input you can see date when you did it
