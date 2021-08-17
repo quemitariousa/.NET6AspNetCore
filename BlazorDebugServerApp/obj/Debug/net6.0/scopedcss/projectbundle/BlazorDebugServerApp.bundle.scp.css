@@ -3,6 +3,9 @@
 /* _content/BlazorDebugServerApp/Pages/Index.razor.rz.scp.css */
 /*TODO: Test css isolation for .razor file*/
 /*1. .razor.css file should be linked with .razor file*/ 
+.col-4[b-4iowfcpbww] {
+    color: rosybrown;
+}
 /* _content/BlazorDebugServerApp/Shared/MainLayout.razor.rz.scp.css */
 .page[b-u1iydj3xt7] {
     position: relative;
