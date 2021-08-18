@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nLMwPVdzYkT5cDafBw4jBLQn/VGHgQvRsLc1bWLcf3cMa+S34Uuomm8lomXpdK9d6Sz6LXkVLecw4dKuG21j0w==",
+  "dgSpecHash": "Ir7Ccbjd9M58crhFtpZ06Z5b7BjWc6yL3SWpxOMe+EQbjizCzGz5s01Wtw7oaNC7UaplV5JlKC5UFCID6s86kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorWebAssemblyDebug\\BlazorWebAssemblyDebug.csproj",
+  "projectFilePath": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorWebAssemblyDebug\\BlazorWebAssemblyDebug.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quemi\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0-preview.6.21355.2\\microsoft.aspnetcore.authorization.6.0.0-preview.6.21355.2.nupkg.sha512",
     "C:\\Users\\quemi\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.0-preview.6.21355.2\\microsoft.aspnetcore.components.6.0.0-preview.6.21355.2.nupkg.sha512",

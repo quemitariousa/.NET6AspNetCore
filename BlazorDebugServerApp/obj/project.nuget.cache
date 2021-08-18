@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/3vaDxN5StAaYT4Iykp5WcBasTVsyYsO9kl0LDopaXQzLzn/iMoEnqrqzPoGg+00AlD8Jt+6aCUZV3aP0NiY/g==",
+  "dgSpecHash": "eKVTgZr4ilQ5cmYIx4vEwjfpovNvydFbXUlmDtBDdUMpBmijOmG/3v2AK+wqy8Axmk06xE847PgaZU9+KQ/uGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\BlazorDebugServerApp.csproj",
+  "projectFilePath": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\BlazorDebugServerApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -3,6 +3,10 @@
 /* _content/BlazorDebugServerApp/Pages/Index.razor.rz.scp.css */
 /*TODO: Test css isolation for .razor file*/
 /*1. .razor.css file should be linked with .razor file*/ 
+
+/* TODO: Go to declaration.. razor.css -> .razor */
+/* 1. Right click on col-4 and select Go to ... Declaration */
+/* 2. Selector should open */
 .col-4[b-4iowfcpbww] {
     color: rosybrown;
 }

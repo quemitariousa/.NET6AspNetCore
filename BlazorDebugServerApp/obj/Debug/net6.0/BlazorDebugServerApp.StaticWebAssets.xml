@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="_content/BlazorDebugServerApp" Path="C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\scopedcss\bundle\" />
-  <ContentRoot BasePath="_content/BlazorDebugServerApp" Path="C:\Users\quemi\RiderProjects\TestDebugAspNet\BlazorDebugServerApp\obj\Debug\net6.0\scopedcss\projectbundle\" />
+  <ContentRoot BasePath="_content/BlazorDebugServerApp" Path="C:\Users\quemi\RiderProjects\.NET6AspNetCore\BlazorDebugServerApp\obj\Debug\net6.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/BlazorDebugServerApp" Path="C:\Users\quemi\RiderProjects\.NET6AspNetCore\BlazorDebugServerApp\obj\Debug\net6.0\scopedcss\projectbundle\" />
 </StaticWebAssets>

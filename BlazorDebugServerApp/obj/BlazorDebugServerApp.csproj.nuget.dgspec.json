@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\BlazorDebugServerApp.csproj": {}
+    "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\BlazorDebugServerApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\BlazorDebugServerApp.csproj": {
+    "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\BlazorDebugServerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\BlazorDebugServerApp.csproj",
+        "projectUniqueName": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\BlazorDebugServerApp.csproj",
         "projectName": "BlazorDebugServerApp",
-        "projectPath": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\BlazorDebugServerApp.csproj",
+        "projectPath": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\BlazorDebugServerApp.csproj",
         "packagesPath": "C:\\Users\\quemi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\obj\\",
+        "outputPath": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\quemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

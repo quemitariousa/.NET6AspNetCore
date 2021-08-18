@@ -16,9 +16,56 @@
   <component name="ChangeListManager">
     <list default="true" id="e111c501-891d-4de4-9b5e-7608312770ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestDebugAspNetCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestDebugAspNetCore/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/Pages/Index.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/Pages/Index.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/Shared/MainLayout.razor" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/Shared/MainLayout.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlazorWebAssemblyDebug/CustomEvents/CustomPasteEventArgs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWebAssemblyDebug/CustomEvents/CustomPasteEventArgs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/bin/Debug/net6.0/BlazorDebugServerApp.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/bin/Debug/net6.0/BlazorDebugServerApp.StaticWebAssets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/bin/Debug/net6.0/BlazorDebugServerApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/bin/Debug/net6.0/BlazorDebugServerApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/bin/Debug/net6.0/BlazorDebugServerApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/bin/Debug/net6.0/BlazorDebugServerApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/bin/Debug/net6.0/BlazorDebugServerApp.staticwebassets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/bin/Debug/net6.0/BlazorDebugServerApp.staticwebassets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/bin/Debug/net6.0/BlazorDebugServerApp.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/bin/Debug/net6.0/BlazorDebugServerApp.staticwebassets.runtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/BlazorDebugServerApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/BlazorDebugServerApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/BlazorDebugServerApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/BlazorDebugServerApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.StaticWebAssets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/BlazorDebugServerApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/StaticWebAssets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/StaticWebAssets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/StaticWebAssets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/StaticWebAssets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/scopedcss/bundle/BlazorDebugServerApp.styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/scopedcss/bundle/BlazorDebugServerApp.styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/scopedcss/projectbundle/BlazorDebugServerApp.bundle.scp.css" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/Debug/net6.0/scopedcss/projectbundle/BlazorDebugServerApp.bundle.scp.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorDebugServerApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorDebugServerApp/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/BlazorWebAssemblyDebug.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/BlazorWebAssemblyDebug.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/BlazorWebAssemblyDebug.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/BlazorWebAssemblyDebug.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/Debug/net6.0/BlazorWebAssemblyDebug.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/Debug/net6.0/BlazorWebAssemblyDebug.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/Debug/net6.0/BlazorWebAssemblyDebug.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/Debug/net6.0/BlazorWebAssemblyDebug.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/Debug/net6.0/BlazorWebAssemblyDebug.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/Debug/net6.0/BlazorWebAssemblyDebug.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BlazorWebAssemblyDebug/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CssIsolation/obj/CssIsolation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CssIsolation/obj/CssIsolation.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CssIsolation/obj/CssIsolation.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CssIsolation/obj/CssIsolation.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CssIsolation/obj/Debug/net6.0/CssIsolation.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/CssIsolation/obj/Debug/net6.0/CssIsolation.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CssIsolation/obj/Debug/net6.0/CssIsolation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CssIsolation/obj/Debug/net6.0/CssIsolation.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CssIsolation/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CssIsolation/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CssIsolation/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CssIsolation/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CssIsolation/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CssIsolation/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CssIsolation/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CssIsolation/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwagerApi/obj/Debug/net6.0/SwagerApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/SwagerApi/obj/Debug/net6.0/SwagerApi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwagerApi/obj/Debug/net6.0/SwagerApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SwagerApi/obj/Debug/net6.0/SwagerApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwagerApi/obj/Debug/net6.0/SwagerApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SwagerApi/obj/Debug/net6.0/SwagerApi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwagerApi/obj/SwagerApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SwagerApi/obj/SwagerApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwagerApi/obj/SwagerApi.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SwagerApi/obj/SwagerApi.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwagerApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SwagerApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwagerApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SwagerApi/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwagerApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SwagerApi/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwagerApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SwagerApi/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDebugAspNetCore.sln" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +235,8 @@
       <workItem from="1628855457418" duration="90000" />
       <workItem from="1628855578624" duration="32000" />
       <workItem from="1629227466935" duration="1798000" />
-      <workItem from="1629232657896" duration="481000" />
+      <workItem from="1629232657896" duration="1126000" />
+      <workItem from="1629278272500" duration="764000" />
     </task>
     <task id="LOCAL-00001" summary="rename project">
       <created>1628852236518</created>
@@ -232,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629228500035</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="more todo">
+      <created>1629233152751</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629233152751</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +316,7 @@
     <MESSAGE value="todo dynamicComponent" />
     <MESSAGE value="another todo dynamic component" />
     <MESSAGE value="english" />
-    <option name="LAST_COMMIT_MESSAGE" value="english" />
+    <MESSAGE value="more todo" />
+    <option name="LAST_COMMIT_MESSAGE" value="more todo" />
   </component>
 </project>

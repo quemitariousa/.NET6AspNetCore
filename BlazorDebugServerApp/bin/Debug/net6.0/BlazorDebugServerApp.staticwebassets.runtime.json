@@ -1,8 +1,8 @@
 {
   "ContentRoots": [
-    "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
-    "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-    "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\"
+    "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
+    "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+    "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\"
   ],
   "Root": {
     "Children": {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "A8PW8AOZzG+17nuKWHMAT/tt47xRUbAwFGKuImvw0NA=",
+  "Hash": "Qkr2tvAlZaJqS719AXt5BWGctnMTtPt4STERe98MMrk=",
   "Source": "BlazorDebugServerApp",
   "BasePath": "_content/BlazorDebugServerApp",
   "Mode": "Default",
@@ -9,17 +9,17 @@
   "DiscoveryPatterns": [
     {
       "Name": "BlazorDebugServerApp\\wwwroot",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorDebugServerApp.styles.css",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorDebugServerApp.styles.css",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "BlazorDebugServerApp.styles.css",
       "AssetKind": "All",
@@ -30,13 +30,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorDebugServerApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorDebugServerApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorDebugServerApp.bundle.scp.css",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorDebugServerApp.bundle.scp.css",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "BlazorDebugServerApp.bundle.scp.css",
       "AssetKind": "All",
@@ -47,13 +47,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorDebugServerApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorDebugServerApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -67,10 +67,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -84,10 +84,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -118,10 +118,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -135,10 +135,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -152,10 +152,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -186,10 +186,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -203,10 +203,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -220,10 +220,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -237,10 +237,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\css\\site.css",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -254,10 +254,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\favicon.ico",
       "SourceId": "BlazorDebugServerApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorDebugServerApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorDebugServerApp\\wwwroot\\",
       "BasePath": "_content/BlazorDebugServerApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

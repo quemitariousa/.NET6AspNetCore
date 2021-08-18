@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H/60k6hNjHb5m59c6JNqe7pgkAYwE2dPnZZy8lYa36PquT78RuGedbNBp4SL25GWZhPgtHv+QuTC4Y3VFarRFQ==",
+  "dgSpecHash": "8ZFtb54DMneE98zQf+ws2Aj8yZJh5u/0pp1Eu5d/T160DXfnW6kLXekgMkcamNAIVnDTWkoTVWNH7H3n056iiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\SwagerApi\\SwagerApi.csproj",
+  "projectFilePath": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\SwagerApi\\SwagerApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quemi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\quemi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\quemi\\.nuget\\packages\\": {}
+    "C:\\Users\\quemi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\CssIsolation\\CssIsolation.csproj",
+      "projectUniqueName": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\CssIsolation\\CssIsolation.csproj",
       "projectName": "CssIsolation",
-      "projectPath": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\CssIsolation\\CssIsolation.csproj",
+      "projectPath": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\CssIsolation\\CssIsolation.csproj",
       "packagesPath": "C:\\Users\\quemi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\CssIsolation\\obj\\",
+      "outputPath": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\CssIsolation\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\quemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

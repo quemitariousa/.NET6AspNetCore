@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2aAKFuWWk+diRLHSn9ZtHtTc0jhIrOVmlm1VYaW6ZjlUchIBsuGBSWFpWdUBoBICJm+iM2J3IoKsBO6B3oiTQw==",
+  "dgSpecHash": "FBSiDBWs9J3K8XKrRt2+WvdJdQs6sP+4FEDc0bjNw0B2pjVB1WFhqLS1LlYoOZI+A+n32n/9o5jpevE3Mht61w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\CssIsolation\\CssIsolation.csproj",
+  "projectFilePath": "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\CssIsolation\\CssIsolation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
