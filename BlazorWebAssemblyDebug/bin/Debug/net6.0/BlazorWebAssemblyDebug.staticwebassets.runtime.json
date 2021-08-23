@@ -1,10 +1,10 @@
 {
   "ContentRoots": [
-    "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorWebAssemblyDebug\\wwwroot\\",
-    "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorWebAssemblyDebug\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-    "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorWebAssemblyDebug\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-    "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorWebAssemblyDebug\\obj\\Debug\\net6.0\\blazor\\",
-    "C:\\Users\\quemi\\RiderProjects\\TestDebugAspNet\\BlazorWebAssemblyDebug\\bin\\Debug\\net6.0\\wwwroot\\"
+    "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorWebAssemblyDebug\\wwwroot\\",
+    "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorWebAssemblyDebug\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+    "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorWebAssemblyDebug\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+    "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorWebAssemblyDebug\\obj\\Debug\\net6.0\\blazor\\",
+    "C:\\Users\\quemi\\RiderProjects\\.NET6AspNetCore\\BlazorWebAssemblyDebug\\bin\\Debug\\net6.0\\wwwroot\\"
   ],
   "Root": {
     "Children": {
